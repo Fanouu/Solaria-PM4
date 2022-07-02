@@ -1,0 +1,79 @@
+name: SolariaCore
+author: Fanouu
+api: [4.0.0]
+version: 2.0
+main: Solaria\Core
+
+permissions:
+  atout.haste:
+    default: op
+  atout.force:
+    default: op
+  atout.speed:
+    default: op
+  particle.redstone:
+    default: op
+  particle.lava:
+    default: op
+  particle.fire:
+    default: op
+  particle.water:
+    default: op
+  cape.golem:
+    default: op
+  cape.pickaxe:
+    default: op
+  cape.enderman:
+    default: op
+  cape.flames:
+    default: op
+  cape.redcreeper:
+    default: op
+  cape.bluecreeper:
+    default: op  
+  staff.mute:
+    default: op
+  staff.forcekoth:
+    default: op
+  staff.givekey:
+    default: op
+  staff.addpb:
+    default: op
+  staff.spawnbox:
+    default: op
+  staff.kick:
+    default: op
+  staff.addmoney:
+    default: op
+  staff.showmsg:
+    default: op
+  staff.ban:
+    default: op
+  staff.floatingtext:
+    default: op
+  staff.forceclear:
+    default: op
+  grade.repair:
+    default: op
+  grade.ec:
+    default: op
+  grade.kit.vip:
+    default: op
+  grade.kit.vipplus:
+    default: op
+  grade.kit.hero:
+    default: op
+  grade.kit.champion:
+    default: op
+  grade.kit.supreme:
+    default: op
+  grade.moneyzone.vipplus:
+    default: op
+  grade.moneyzone.hero:
+    default: op
+  grade.moneyzone.champion:
+    default: op
+  grade.moneyzone.supreme:
+    default: op
+  grade.minevip:
+    default: op
